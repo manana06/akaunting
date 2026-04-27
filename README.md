@@ -9,8 +9,8 @@ This project focuses on the localization and adaptation of the **Akaunting** ope
 | Name | Student ID | Role |
 | :--- | :--- | :--- |
 | **Manana Paitchadze** | 2331910/1 | Project Manager |
-| **Konstantinos Chritis** | 100-0094679 | Lead Developer |
-| **Mikaella Dimitrakopoulou** | 2331918 | Business Analyst |
+| **Konstantinos Chritis** | 2331918 | Lead Developer |
+| **Mikaella Dimitrakopoulou** | 100-0094679 | Business Analyst |
 | **Christina Karagiorgou** | [ID] | Community Analyst |
 
 ## 3. Business Problem 
