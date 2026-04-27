@@ -2,7 +2,7 @@
 
 return [
 
-    'invoice_number'        => 'Αριθμός Τιμολογίου',
+    'invoice_number'        => 'Σειρά & Αριθμός Τιμολογίου,
     'invoice_date'          => 'Ημερομηνία Τιμολογίου',
     'invoice_amount'        => 'Σύνολο τιμολογίου',
     'total_price'           => 'Συνολική Τιμή',
