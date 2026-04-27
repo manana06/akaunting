@@ -13,7 +13,7 @@ This project focuses on the localization and adaptation of the **Akaunting** ope
 | **Mikaella Dimitrakopoulou** | 2331918 | Business Analyst |
 | **Christina Karagiorgou** | [ID] | Community Analyst |
 
-## 3. Business Problem
+## 3. Business Problem 
 Greek SMEs often face:
 * High licensing costs for proprietary ERP systems.
 * Poor localization (translation/terminology) in international software.
