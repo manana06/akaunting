@@ -15,5 +15,3 @@ Our team focuses on three main areas:
 
 ## Code of Conduct
 We maintain a professional and collaborative environment, respecting the open-source values of the original Akaunting community.
-
-
