@@ -11,7 +11,7 @@ This project focuses on the localization and adaptation of the **Akaunting** ope
 | **Manana Paitchadze** | 2331910/1 | Project Manager |
 | **Konstantinos Chritis** | 2331918 | Lead Developer |
 | **Mikaella Dimitrakopoulou** | 100-0094679 | Business Analyst |
-| **Christina Karagiorgou** | [ID] | Community Analyst |
+| **Christina Karagiorgou** | 2331914 | Community Analyst |
 
 ## 3. Business Problem 
 Greek SMEs often face:
